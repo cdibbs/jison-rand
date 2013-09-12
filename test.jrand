@@ -1,0 +1,3 @@
+bob		/[a-z]+/
+chris		{ let's do some stuff! }
+dale		"this is pretty simple"
