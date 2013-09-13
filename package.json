@@ -29,7 +29,8 @@
     "nomnom": "1.5.2"
   },
   "devDependencies": {
-    "test": "0.4.4"
+    "test": "0.4.4",
+    "jison": "0.4.13"
   },
   "scripts": {
     "test": "node tests/all-tests.js"
